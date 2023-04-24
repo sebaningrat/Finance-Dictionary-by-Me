@@ -1,0 +1,23 @@
+In financing dictionary, there are three source big topic. First topic is income from customers, second topic is Maintenance the credit customer, and the last is source money of financing.
+*1. Income.*
+devided by LOB : 
+1.1 Retail
+1.2 Commercial 
+1.3 PVF
+1.4 EUC
+1.5 Override is extra applicant request portion from dealer.  
+1.6 Penetration is comparison between sale and market.
+1.7 SME
+1.8 Amount Finance = Principle +Interest loan + COF(jumlah pokok yang akan dihitung sebagai dasar kredit untuk pengenaan bunga)
+1.9 Credit = Trust
+2.0 Capital = Equity
+2.1 Collateral = guarantee price (Jaminan)
+2.2 ADDM = Angsuran dibayar di muka
+2.3 ADDB = Angsuran dibayar dibelakang
+2.4 RV = Residual  Value, nilai yang berkurang.
+2.5 Baloon atau Leasing 
+2.6 Disposal = Pembagian atau pengelesaian. 
+2.7 Balance Overdue =  persentase OSAR overdue with  all OSAR 
+2.8 LOR  = Loss On Repossesion selisih nilai inventory dengan nilai setelah dijual kembali.
+2.9 OTR = On The Road
+3.0 Amount Receivable = Jumlah pokok hutang yang dikenakan.
