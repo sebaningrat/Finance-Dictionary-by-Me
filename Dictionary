@@ -21,3 +21,5 @@ devided by LOB :
 2.8 LOR  = Loss On Repossesion selisih nilai inventory dengan nilai setelah dijual kembali.
 2.9 OTR = On The Road
 3.0 Amount Receivable = Jumlah pokok hutang yang dikenakan.
+3.1 Deliquency = Late or Fail to pay debt
+3.2 Backlog = Barang ditangguhkan karena dealer belum provide kendaraan atau cust belum bayar DP 
